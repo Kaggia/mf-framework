@@ -1,0 +1,13 @@
+{
+    "data": [
+        "sample_date", 
+        "average_temperature", 
+        "minimum_temperature", 
+        "maximum_temperature",
+        "non_existent_parameter"],
+    "assertResult":{
+        "sample_date": "SampleDate", 
+        "average_temperature": "AverageTemperature", 
+        "minimum_temperature": "MinimumTemperature", 
+        "maximum_temperature": "MaximumTemperature"}
+}

@@ -1,0 +1,24 @@
+{
+    "data": [
+        {"sampleDate": "2024/01/01 00:00", "humidity": 87, "temperature": 18},
+        {"sampleDate": "2024/01/02 00:00", "humidity": 67, "temperature": 22},
+        {"sampleDate": "2024/01/03 00:00", "humidity": 78, "temperature": 21},
+        {"sampleDate": "2024/01/06 00:00", "humidity": 73, "temperature": 20},
+        {"sampleDate": "2024/01/07 00:00", "humidity": 81, "temperature": 18},
+        {"sampleDate": "2024/01/08 00:00", "humidity": 76, "temperature": 18},
+        {"sampleDate": "2024/01/09 00:00", "humidity": 90, "temperature": 19},
+        {"sampleDate": "2024/01/10 00:00", "humidity": 91, "temperature": 22}    
+    ],
+    "assertResult":[
+        {"sampleDate": "2024/01/01 00:00", "humidity": 87, "temperature": 18},
+        {"sampleDate": "2024/01/02 00:00", "humidity": 67, "temperature": 22},
+        {"sampleDate": "2024/01/03 00:00", "humidity": 78, "temperature": 21},
+        {"sampleDate": "2024/01/04 00:00", "humidity": 83, "temperature": 22},
+        {"sampleDate": "2024/01/05 00:00", "humidity": 88, "temperature": 23},
+        {"sampleDate": "2024/01/06 00:00", "humidity": 73, "temperature": 20},
+        {"sampleDate": "2024/01/07 00:00", "humidity": 81, "temperature": 18},
+        {"sampleDate": "2024/01/08 00:00", "humidity": 76, "temperature": 18},
+        {"sampleDate": "2024/01/09 00:00", "humidity": 90, "temperature": 19},
+        {"sampleDate": "2024/01/10 00:00", "humidity": 91, "temperature": 22}    
+    ]
+}

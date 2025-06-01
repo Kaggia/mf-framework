@@ -1,0 +1,17 @@
+{
+    "data": [
+        {"sampleDate": "2024-01-01 00:00", "temperature": 10.0},
+        {"sampleDate": "2024-01-02 00:00", "temperature": 11.0},
+        {"sampleDate": "2024-01-03 00:00", "temperature": 11.0},
+        {"sampleDate": "2024-01-04 00:00", "temperature": 10.0},
+        {"sampleDate": "2024-01-05 00:00", "temperature": 12.0}
+    ],
+    "assertResult":[
+        {"sampleDate": "2024-01-01 00:00", "temperature": 10.0},
+        {"sampleDate": "2024-01-02 00:00", "temperature": 11.0},
+        {"sampleDate": "2024-01-03 00:00", "temperature": 11.0},
+        {"sampleDate": "2024-01-04 00:00", "temperature": 10.0},
+        {"sampleDate": "2024-01-05 00:00", "temperature": 12.0}
+    ],
+    "notes": "Convertion from pd.DataFrame to json"
+}

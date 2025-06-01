@@ -1,0 +1,1061 @@
+{
+    "data": [
+        {
+            "sampleDate": "2013-01-01 00:00",
+            "avg_temp": 3.1879166666666676,
+            "avg_humidity": 84.125,
+            "rain": 5.9,
+            "leaf_wetness": 10
+        },
+        {
+            "sampleDate": "2013-01-02 00:00",
+            "avg_temp": 3.9233333333333333,
+            "avg_humidity": 91.25,
+            "rain": 7.299999999999999,
+            "leaf_wetness": 20
+        },
+        {
+            "sampleDate": "2013-01-03 00:00",
+            "avg_temp": 4.756666666666667,
+            "avg_humidity": 70.79166666666667,
+            "rain": 0,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-01-04 00:00",
+            "avg_temp": 7.857916666666665,
+            "avg_humidity": 60.625,
+            "rain": 0,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-01-05 00:00",
+            "avg_temp": 9.700416666666667,
+            "avg_humidity": 59.5,
+            "rain": 0,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-01-06 00:00",
+            "avg_temp": 9.537916666666668,
+            "avg_humidity": 62.875,
+            "rain": 0,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-01-07 00:00",
+            "avg_temp": 7.38375,
+            "avg_humidity": 69.79166666666667,
+            "rain": 0,
+            "leaf_wetness": 3
+        },
+        {
+            "sampleDate": "2013-01-08 00:00",
+            "avg_temp": 2.9675000000000007,
+            "avg_humidity": 88.70833333333333,
+            "rain": 0,
+            "leaf_wetness": 17
+        },
+        {
+            "sampleDate": "2013-01-09 00:00",
+            "avg_temp": 5.0370833333333325,
+            "avg_humidity": 89.875,
+            "rain": 0,
+            "leaf_wetness": 17
+        },
+        {
+            "sampleDate": "2013-01-10 00:00",
+            "avg_temp": 6.726666666666667,
+            "avg_humidity": 87.66666666666667,
+            "rain": 0,
+            "leaf_wetness": 16
+        },
+        {
+            "sampleDate": "2013-01-11 00:00",
+            "avg_temp": 5.77,
+            "avg_humidity": 82.45833333333333,
+            "rain": 0,
+            "leaf_wetness": 10
+        },
+        {
+            "sampleDate": "2013-01-12 00:00",
+            "avg_temp": 3.8137499999999993,
+            "avg_humidity": 81.125,
+            "rain": 0,
+            "leaf_wetness": 13
+        },
+        {
+            "sampleDate": "2013-01-13 00:00",
+            "avg_temp": 3.745833333333332,
+            "avg_humidity": 89.66666666666667,
+            "rain": 4.500000000000001,
+            "leaf_wetness": 18
+        },
+        {
+            "sampleDate": "2013-01-14 00:00",
+            "avg_temp": 3.6816666666666666,
+            "avg_humidity": 84.58333333333333,
+            "rain": 3.9000000000000004,
+            "leaf_wetness": 13
+        },
+        {
+            "sampleDate": "2013-01-15 00:00",
+            "avg_temp": 2.136666666666667,
+            "avg_humidity": 91.75,
+            "rain": 2.9000000000000004,
+            "leaf_wetness": 20
+        },
+        {
+            "sampleDate": "2013-01-16 00:00",
+            "avg_temp": 1.8591666666666666,
+            "avg_humidity": 77.54166666666667,
+            "rain": 8.2,
+            "leaf_wetness": 9
+        },
+        {
+            "sampleDate": "2013-01-17 00:00",
+            "avg_temp": 0.7970833333333336,
+            "avg_humidity": 64.20833333333333,
+            "rain": 0.1,
+            "leaf_wetness": 3
+        },
+        {
+            "sampleDate": "2013-01-18 00:00",
+            "avg_temp": 0.7558333333333332,
+            "avg_humidity": 61,
+            "rain": 0,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-01-19 00:00",
+            "avg_temp": 1.2279166666666665,
+            "avg_humidity": 80.91666666666667,
+            "rain": 7.400000000000001,
+            "leaf_wetness": 10
+        },
+        {
+            "sampleDate": "2013-01-20 00:00",
+            "avg_temp": 0.5254166666666668,
+            "avg_humidity": 95.95833333333333,
+            "rain": 12.3,
+            "leaf_wetness": 24
+        },
+        {
+            "sampleDate": "2013-01-21 00:00",
+            "avg_temp": 1.5366666666666668,
+            "avg_humidity": 93.95833333333333,
+            "rain": 0.5,
+            "leaf_wetness": 21
+        },
+        {
+            "sampleDate": "2013-01-22 00:00",
+            "avg_temp": 3.7404166666666665,
+            "avg_humidity": 72.16666666666667,
+            "rain": 0,
+            "leaf_wetness": 4
+        },
+        {
+            "sampleDate": "2013-01-23 00:00",
+            "avg_temp": 3.0137500000000004,
+            "avg_humidity": 88.29166666666667,
+            "rain": 13.2,
+            "leaf_wetness": 16
+        },
+        {
+            "sampleDate": "2013-01-24 00:00",
+            "avg_temp": 5.050833333333332,
+            "avg_humidity": 73.875,
+            "rain": 0.6,
+            "leaf_wetness": 7
+        },
+        {
+            "sampleDate": "2013-01-25 00:00",
+            "avg_temp": 2.759166666666666,
+            "avg_humidity": 77.66666666666667,
+            "rain": 0,
+            "leaf_wetness": 9
+        },
+        {
+            "sampleDate": "2013-01-26 00:00",
+            "avg_temp": 1.5033333333333332,
+            "avg_humidity": 82.375,
+            "rain": 0,
+            "leaf_wetness": 9
+        },
+        {
+            "sampleDate": "2013-01-27 00:00",
+            "avg_temp": 3.8470833333333334,
+            "avg_humidity": 77.54166666666667,
+            "rain": 0,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-01-28 00:00",
+            "avg_temp": 3.372083333333334,
+            "avg_humidity": 88.625,
+            "rain": 3.9999999999999996,
+            "leaf_wetness": 16
+        },
+        {
+            "sampleDate": "2013-01-29 00:00",
+            "avg_temp": 4.3308333333333335,
+            "avg_humidity": 86.41666666666667,
+            "rain": 0,
+            "leaf_wetness": 15
+        },
+        {
+            "sampleDate": "2013-01-30 00:00",
+            "avg_temp": 6.8254166666666665,
+            "avg_humidity": 85.20833333333333,
+            "rain": 0,
+            "leaf_wetness": 15
+        },
+        {
+            "sampleDate": "2013-01-31 00:00",
+            "avg_temp": 7.360833333333333,
+            "avg_humidity": 77.95833333333333,
+            "rain": 0,
+            "leaf_wetness": 10
+        },
+        {
+            "sampleDate": "2013-02-01 00:00",
+            "avg_temp": 7.570416666666667,
+            "avg_humidity": 78.04166666666667,
+            "rain": 0,
+            "leaf_wetness": 5
+        },
+        {
+            "sampleDate": "2013-02-02 00:00",
+            "avg_temp": 5.706666666666667,
+            "avg_humidity": 67.70833333333333,
+            "rain": 3.5,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-02-03 00:00",
+            "avg_temp": 4.607500000000001,
+            "avg_humidity": 38.125,
+            "rain": 0,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-02-04 00:00",
+            "avg_temp": 5.6745833333333335,
+            "avg_humidity": 65.16666666666667,
+            "rain": 0,
+            "leaf_wetness": 3
+        },
+        {
+            "sampleDate": "2013-02-05 00:00",
+            "avg_temp": 8.13875,
+            "avg_humidity": 77.45833333333333,
+            "rain": 0,
+            "leaf_wetness": 9
+        },
+        {
+            "sampleDate": "2013-02-06 00:00",
+            "avg_temp": 4.8566666666666665,
+            "avg_humidity": 54.041666666666664,
+            "rain": 0,
+            "leaf_wetness": 4
+        },
+        {
+            "sampleDate": "2013-02-07 00:00",
+            "avg_temp": 4.0808333333333335,
+            "avg_humidity": 58.791666666666664,
+            "rain": 0,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-02-08 00:00",
+            "avg_temp": 1.8875000000000002,
+            "avg_humidity": 52.625,
+            "rain": 0,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-02-09 00:00",
+            "avg_temp": 1.0983333333333334,
+            "avg_humidity": 51.375,
+            "rain": 0,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-02-10 00:00",
+            "avg_temp": 1.2441666666666664,
+            "avg_humidity": 53.166666666666664,
+            "rain": 0,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-02-11 00:00",
+            "avg_temp": -0.1929166666666667,
+            "avg_humidity": 94.625,
+            "rain": 36,
+            "leaf_wetness": 23
+        },
+        {
+            "sampleDate": "2013-02-12 00:00",
+            "avg_temp": -0.47374999999999995,
+            "avg_humidity": 95.125,
+            "rain": 1.4,
+            "leaf_wetness": 24
+        },
+        {
+            "sampleDate": "2013-02-13 00:00",
+            "avg_temp": -1.615,
+            "avg_humidity": 88.625,
+            "rain": 0,
+            "leaf_wetness": 18
+        },
+        {
+            "sampleDate": "2013-02-14 00:00",
+            "avg_temp": -0.46791666666666704,
+            "avg_humidity": 74.20833333333333,
+            "rain": 0,
+            "leaf_wetness": 6
+        },
+        {
+            "sampleDate": "2013-02-15 00:00",
+            "avg_temp": 4.111666666666667,
+            "avg_humidity": 61.916666666666664,
+            "rain": 0,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-02-16 00:00",
+            "avg_temp": 4.624999999999999,
+            "avg_humidity": 72.79166666666667,
+            "rain": 0,
+            "leaf_wetness": 2
+        },
+        {
+            "sampleDate": "2013-02-17 00:00",
+            "avg_temp": 4.382083333333333,
+            "avg_humidity": 83.20833333333333,
+            "rain": 0.2,
+            "leaf_wetness": 12
+        },
+        {
+            "sampleDate": "2013-02-18 00:00",
+            "avg_temp": 4.464999999999999,
+            "avg_humidity": 75.20833333333333,
+            "rain": 0,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-02-19 00:00",
+            "avg_temp": 4.63625,
+            "avg_humidity": 74.875,
+            "rain": 0,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-02-20 00:00",
+            "avg_temp": 4.430000000000001,
+            "avg_humidity": 86,
+            "rain": 0,
+            "leaf_wetness": 13
+        },
+        {
+            "sampleDate": "2013-02-21 00:00",
+            "avg_temp": 2.4333333333333327,
+            "avg_humidity": 82.41666666666667,
+            "rain": 0,
+            "leaf_wetness": 7
+        },
+        {
+            "sampleDate": "2013-02-22 00:00",
+            "avg_temp": 1.1691666666666667,
+            "avg_humidity": 78.79166666666667,
+            "rain": 0,
+            "leaf_wetness": 9
+        },
+        {
+            "sampleDate": "2013-02-23 00:00",
+            "avg_temp": 1.3949999999999998,
+            "avg_humidity": 78.08333333333333,
+            "rain": 0,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-02-24 00:00",
+            "avg_temp": 3.032083333333333,
+            "avg_humidity": 82.875,
+            "rain": 4.5,
+            "leaf_wetness": 13
+        },
+        {
+            "sampleDate": "2013-02-25 00:00",
+            "avg_temp": 3.438333333333333,
+            "avg_humidity": 83.875,
+            "rain": 1.8,
+            "leaf_wetness": 13
+        },
+        {
+            "sampleDate": "2013-02-26 00:00",
+            "avg_temp": 5.277499999999999,
+            "avg_humidity": 70.375,
+            "rain": 0,
+            "leaf_wetness": 11
+        },
+        {
+            "sampleDate": "2013-02-27 00:00",
+            "avg_temp": 5.814999999999999,
+            "avg_humidity": 60.083333333333336,
+            "rain": 0.9,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-02-28 00:00",
+            "avg_temp": 7.2075,
+            "avg_humidity": 76.79166666666667,
+            "rain": 0,
+            "leaf_wetness": 4
+        },
+        {
+            "sampleDate": "2013-03-01 00:00",
+            "avg_temp": 7.347083333333333,
+            "avg_humidity": 76.20833333333333,
+            "rain": 0,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-03-02 00:00",
+            "avg_temp": 6.62625,
+            "avg_humidity": 80.625,
+            "rain": 0,
+            "leaf_wetness": 9
+        },
+        {
+            "sampleDate": "2013-03-03 00:00",
+            "avg_temp": 6.926249999999999,
+            "avg_humidity": 79.91666666666667,
+            "rain": 0,
+            "leaf_wetness": 10
+        },
+        {
+            "sampleDate": "2013-03-04 00:00",
+            "avg_temp": 7.7920833333333315,
+            "avg_humidity": 78.125,
+            "rain": 0,
+            "leaf_wetness": 11
+        },
+        {
+            "sampleDate": "2013-03-05 00:00",
+            "avg_temp": 6.235833333333333,
+            "avg_humidity": 84.95833333333333,
+            "rain": 4.7,
+            "leaf_wetness": 12
+        },
+        {
+            "sampleDate": "2013-03-06 00:00",
+            "avg_temp": 7.237916666666667,
+            "avg_humidity": 94.25,
+            "rain": 24.8,
+            "leaf_wetness": 24
+        },
+        {
+            "sampleDate": "2013-03-07 00:00",
+            "avg_temp": 8.278333333333334,
+            "avg_humidity": 90.20833333333333,
+            "rain": 5.799999999999999,
+            "leaf_wetness": 20
+        },
+        {
+            "sampleDate": "2013-03-08 00:00",
+            "avg_temp": 8.287083333333333,
+            "avg_humidity": 94.08333333333333,
+            "rain": 15.7,
+            "leaf_wetness": 24
+        },
+        {
+            "sampleDate": "2013-03-09 00:00",
+            "avg_temp": 8.753749999999998,
+            "avg_humidity": 90.45833333333333,
+            "rain": 5.6,
+            "leaf_wetness": 19
+        },
+        {
+            "sampleDate": "2013-03-10 00:00",
+            "avg_temp": 9.659583333333334,
+            "avg_humidity": 80.25,
+            "rain": 0,
+            "leaf_wetness": 11
+        },
+        {
+            "sampleDate": "2013-03-11 00:00",
+            "avg_temp": 9.601250000000002,
+            "avg_humidity": 80.95833333333333,
+            "rain": 0.30000000000000004,
+            "leaf_wetness": 11
+        },
+        {
+            "sampleDate": "2013-03-12 00:00",
+            "avg_temp": 8.722083333333334,
+            "avg_humidity": 84.95833333333333,
+            "rain": 2.9,
+            "leaf_wetness": 14
+        },
+        {
+            "sampleDate": "2013-03-13 00:00",
+            "avg_temp": 8.314166666666667,
+            "avg_humidity": 80.875,
+            "rain": 1,
+            "leaf_wetness": 6
+        },
+        {
+            "sampleDate": "2013-03-14 00:00",
+            "avg_temp": 4.932083333333332,
+            "avg_humidity": 50.125,
+            "rain": 0,
+            "leaf_wetness": 4
+        },
+        {
+            "sampleDate": "2013-03-15 00:00",
+            "avg_temp": 2.5958333333333328,
+            "avg_humidity": 36.833333333333336,
+            "rain": 0,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-03-16 00:00",
+            "avg_temp": 4.100833333333333,
+            "avg_humidity": 56.166666666666664,
+            "rain": 0,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-03-17 00:00",
+            "avg_temp": 2.7933333333333334,
+            "avg_humidity": 87.16666666666667,
+            "rain": 22.4,
+            "leaf_wetness": 15
+        },
+        {
+            "sampleDate": "2013-03-18 00:00",
+            "avg_temp": 0.3312500000000001,
+            "avg_humidity": 95.54166666666667,
+            "rain": 22.700000000000003,
+            "leaf_wetness": 24
+        },
+        {
+            "sampleDate": "2013-03-19 00:00",
+            "avg_temp": 4.553333333333334,
+            "avg_humidity": 86.33333333333333,
+            "rain": 0,
+            "leaf_wetness": 14
+        },
+        {
+            "sampleDate": "2013-03-20 00:00",
+            "avg_temp": 6.770416666666666,
+            "avg_humidity": 87.20833333333333,
+            "rain": 0.8,
+            "leaf_wetness": 11
+        },
+        {
+            "sampleDate": "2013-03-21 00:00",
+            "avg_temp": 7.555,
+            "avg_humidity": 53.333333333333336,
+            "rain": 0,
+            "leaf_wetness": 5
+        },
+        {
+            "sampleDate": "2013-03-22 00:00",
+            "avg_temp": 9.228333333333333,
+            "avg_humidity": 62.208333333333336,
+            "rain": 0,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-03-23 00:00",
+            "avg_temp": 9.727083333333335,
+            "avg_humidity": 82.70833333333333,
+            "rain": 9,
+            "leaf_wetness": 11
+        },
+        {
+            "sampleDate": "2013-03-24 00:00",
+            "avg_temp": 6.247916666666666,
+            "avg_humidity": 90.04166666666667,
+            "rain": 15.3,
+            "leaf_wetness": 18
+        },
+        {
+            "sampleDate": "2013-03-25 00:00",
+            "avg_temp": 5.558333333333331,
+            "avg_humidity": 80.125,
+            "rain": 1.5,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-03-26 00:00",
+            "avg_temp": 5.934166666666666,
+            "avg_humidity": 73.95833333333333,
+            "rain": 0,
+            "leaf_wetness": 3
+        },
+        {
+            "sampleDate": "2013-03-27 00:00",
+            "avg_temp": 5.351666666666667,
+            "avg_humidity": 74.41666666666667,
+            "rain": 0,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-03-28 00:00",
+            "avg_temp": 6.172916666666667,
+            "avg_humidity": 83.20833333333333,
+            "rain": 10.5,
+            "leaf_wetness": 14
+        },
+        {
+            "sampleDate": "2013-03-29 00:00",
+            "avg_temp": 7.934166666666667,
+            "avg_humidity": 79.33333333333333,
+            "rain": 0,
+            "leaf_wetness": 9
+        },
+        {
+            "sampleDate": "2013-03-30 00:00",
+            "avg_temp": 6.624166666666667,
+            "avg_humidity": 93.54166666666667,
+            "rain": 19.800000000000004,
+            "leaf_wetness": 24
+        },
+        {
+            "sampleDate": "2013-03-31 00:00",
+            "avg_temp": 9.396666666666667,
+            "avg_humidity": 61,
+            "rain": 0,
+            "leaf_wetness": 7
+        },
+        {
+            "sampleDate": "2013-04-01 00:00",
+            "avg_temp": 6.351249999999999,
+            "avg_humidity": 87.375,
+            "rain": 2.2,
+            "leaf_wetness": 15
+        },
+        {
+            "sampleDate": "2013-04-02 00:00",
+            "avg_temp": 8.770416666666666,
+            "avg_humidity": 75.625,
+            "rain": 2.1000000000000005,
+            "leaf_wetness": 9
+        },
+        {
+            "sampleDate": "2013-04-03 00:00",
+            "avg_temp": 9.451666666666666,
+            "avg_humidity": 77.875,
+            "rain": 0,
+            "leaf_wetness": 11
+        },
+        {
+            "sampleDate": "2013-04-04 00:00",
+            "avg_temp": 9.198333333333334,
+            "avg_humidity": 86.20833333333333,
+            "rain": 16.5,
+            "leaf_wetness": 15
+        },
+        {
+            "sampleDate": "2013-04-05 00:00",
+            "avg_temp": 9.115000000000002,
+            "avg_humidity": 85.625,
+            "rain": 10.999999999999996,
+            "leaf_wetness": 15
+        },
+        {
+            "sampleDate": "2013-04-06 00:00",
+            "avg_temp": 10.602083333333333,
+            "avg_humidity": 77.95833333333333,
+            "rain": 0.1,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-04-07 00:00",
+            "avg_temp": 11.226666666666667,
+            "avg_humidity": 73.125,
+            "rain": 0,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-04-08 00:00",
+            "avg_temp": 7.138749999999998,
+            "avg_humidity": 87.45833333333333,
+            "rain": 4,
+            "leaf_wetness": 9
+        },
+        {
+            "sampleDate": "2013-04-09 00:00",
+            "avg_temp": 9.650833333333333,
+            "avg_humidity": 81.375,
+            "rain": 0,
+            "leaf_wetness": 11
+        },
+        {
+            "sampleDate": "2013-04-10 00:00",
+            "avg_temp": 11.077916666666667,
+            "avg_humidity": 72.95833333333333,
+            "rain": 0,
+            "leaf_wetness": 10
+        },
+        {
+            "sampleDate": "2013-04-11 00:00",
+            "avg_temp": 12.312083333333335,
+            "avg_humidity": 75.66666666666667,
+            "rain": 0,
+            "leaf_wetness": 4
+        },
+        {
+            "sampleDate": "2013-04-12 00:00",
+            "avg_temp": 13.3275,
+            "avg_humidity": 76.08333333333333,
+            "rain": 0,
+            "leaf_wetness": 3
+        },
+        {
+            "sampleDate": "2013-04-13 00:00",
+            "avg_temp": 12.42416666666667,
+            "avg_humidity": 66.75,
+            "rain": 0,
+            "leaf_wetness": 7
+        },
+        {
+            "sampleDate": "2013-04-14 00:00",
+            "avg_temp": 15.547916666666666,
+            "avg_humidity": 70.66666666666667,
+            "rain": 0,
+            "leaf_wetness": 7
+        },
+        {
+            "sampleDate": "2013-04-15 00:00",
+            "avg_temp": 17.80125,
+            "avg_humidity": 67.54166666666667,
+            "rain": 0,
+            "leaf_wetness": 3
+        },
+        {
+            "sampleDate": "2013-04-16 00:00",
+            "avg_temp": 17.442500000000003,
+            "avg_humidity": 70.20833333333333,
+            "rain": 0,
+            "leaf_wetness": 4
+        },
+        {
+            "sampleDate": "2013-04-17 00:00",
+            "avg_temp": 18.497083333333336,
+            "avg_humidity": 64.83333333333333,
+            "rain": 0,
+            "leaf_wetness": 7
+        },
+        {
+            "sampleDate": "2013-04-18 00:00",
+            "avg_temp": 19.132500000000004,
+            "avg_humidity": 68.45833333333333,
+            "rain": 0,
+            "leaf_wetness": 2
+        },
+        {
+            "sampleDate": "2013-04-19 00:00",
+            "avg_temp": 16.578333333333337,
+            "avg_humidity": 69.66666666666667,
+            "rain": 0.2,
+            "leaf_wetness": 2
+        },
+        {
+            "sampleDate": "2013-04-20 00:00",
+            "avg_temp": 10.202916666666669,
+            "avg_humidity": 89.54166666666667,
+            "rain": 5.2,
+            "leaf_wetness": 19
+        },
+        {
+            "sampleDate": "2013-04-21 00:00",
+            "avg_temp": 10.859583333333333,
+            "avg_humidity": 89.16666666666667,
+            "rain": 6.300000000000001,
+            "leaf_wetness": 15
+        },
+        {
+            "sampleDate": "2013-04-22 00:00",
+            "avg_temp": 12.608333333333334,
+            "avg_humidity": 81,
+            "rain": 1.2000000000000002,
+            "leaf_wetness": 10
+        },
+        {
+            "sampleDate": "2013-04-23 00:00",
+            "avg_temp": 14.037916666666668,
+            "avg_humidity": 73.70833333333333,
+            "rain": 0,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-04-24 00:00",
+            "avg_temp": 14.700416666666671,
+            "avg_humidity": 67.08333333333333,
+            "rain": 0,
+            "leaf_wetness": 6
+        },
+        {
+            "sampleDate": "2013-04-25 00:00",
+            "avg_temp": 16.969166666666666,
+            "avg_humidity": 60.333333333333336,
+            "rain": 0,
+            "leaf_wetness": 2
+        },
+        {
+            "sampleDate": "2013-04-26 00:00",
+            "avg_temp": 15.945833333333333,
+            "avg_humidity": 78.79166666666667,
+            "rain": 4.199999999999999,
+            "leaf_wetness": 6
+        },
+        {
+            "sampleDate": "2013-04-27 00:00",
+            "avg_temp": 15.911249999999997,
+            "avg_humidity": 76.95833333333333,
+            "rain": 2.2,
+            "leaf_wetness": 4
+        },
+        {
+            "sampleDate": "2013-04-28 00:00",
+            "avg_temp": 16.250833333333336,
+            "avg_humidity": 75.625,
+            "rain": 1.5000000000000002,
+            "leaf_wetness": 5
+        },
+        {
+            "sampleDate": "2013-04-29 00:00",
+            "avg_temp": 15.479166666666664,
+            "avg_humidity": 92.20833333333333,
+            "rain": 11,
+            "leaf_wetness": 21
+        },
+        {
+            "sampleDate": "2013-04-30 00:00",
+            "avg_temp": 17.019166666666667,
+            "avg_humidity": 82.20833333333333,
+            "rain": 1.7,
+            "leaf_wetness": 10
+        },
+        {
+            "sampleDate": "2013-05-01 00:00",
+            "avg_temp": 17.734166666666667,
+            "avg_humidity": 85.08333333333333,
+            "rain": 2.2,
+            "leaf_wetness": 13
+        },
+        {
+            "sampleDate": "2013-05-02 00:00",
+            "avg_temp": 19.123333333333335,
+            "avg_humidity": 69.375,
+            "rain": 0.7,
+            "leaf_wetness": 4
+        },
+        {
+            "sampleDate": "2013-05-03 00:00",
+            "avg_temp": 16.065833333333334,
+            "avg_humidity": 75.54166666666667,
+            "rain": 0,
+            "leaf_wetness": 7
+        },
+        {
+            "sampleDate": "2013-05-04 00:00",
+            "avg_temp": 17.1975,
+            "avg_humidity": 62.5,
+            "rain": 0,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-05-05 00:00",
+            "avg_temp": 15.24125,
+            "avg_humidity": 83.25,
+            "rain": 10,
+            "leaf_wetness": 11
+        },
+        {
+            "sampleDate": "2013-05-06 00:00",
+            "avg_temp": 16.051666666666666,
+            "avg_humidity": 82.95833333333333,
+            "rain": 3.1,
+            "leaf_wetness": 10
+        },
+        {
+            "sampleDate": "2013-05-07 00:00",
+            "avg_temp": 16.678333333333335,
+            "avg_humidity": 77.41666666666667,
+            "rain": 0,
+            "leaf_wetness": 7
+        },
+        {
+            "sampleDate": "2013-05-08 00:00",
+            "avg_temp": 17.822499999999998,
+            "avg_humidity": 75.83333333333333,
+            "rain": 0.2,
+            "leaf_wetness": 9
+        },
+        {
+            "sampleDate": "2013-05-09 00:00",
+            "avg_temp": 19.911666666666665,
+            "avg_humidity": 74.25,
+            "rain": 1.9,
+            "leaf_wetness": 7
+        },
+        {
+            "sampleDate": "2013-05-10 00:00",
+            "avg_temp": 17.093749999999996,
+            "avg_humidity": 85.95833333333333,
+            "rain": 1.4,
+            "leaf_wetness": 12
+        },
+        {
+            "sampleDate": "2013-05-11 00:00",
+            "avg_temp": 17.047916666666662,
+            "avg_humidity": 71.08333333333333,
+            "rain": 0,
+            "leaf_wetness": 7
+        },
+        {
+            "sampleDate": "2013-05-12 00:00",
+            "avg_temp": 15.828333333333335,
+            "avg_humidity": 60.458333333333336,
+            "rain": 0,
+            "leaf_wetness": 6
+        },
+        {
+            "sampleDate": "2013-05-13 00:00",
+            "avg_temp": 15.327500000000002,
+            "avg_humidity": 56.625,
+            "rain": 0,
+            "leaf_wetness": 0
+        },
+        {
+            "sampleDate": "2013-05-14 00:00",
+            "avg_temp": 16.214583333333334,
+            "avg_humidity": 68.25,
+            "rain": 0,
+            "leaf_wetness": 1
+        },
+        {
+            "sampleDate": "2013-05-15 00:00",
+            "avg_temp": 15.727499999999997,
+            "avg_humidity": 72.95833333333333,
+            "rain": 9.3,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-05-16 00:00",
+            "avg_temp": 14.5725,
+            "avg_humidity": 87.875,
+            "rain": 19.900000000000002,
+            "leaf_wetness": 16
+        },
+        {
+            "sampleDate": "2013-05-17 00:00",
+            "avg_temp": 14.753333333333329,
+            "avg_humidity": 74,
+            "rain": 1.2,
+            "leaf_wetness": 6
+        },
+        {
+            "sampleDate": "2013-05-18 00:00",
+            "avg_temp": 12.857500000000002,
+            "avg_humidity": 84.91666666666667,
+            "rain": 7.4,
+            "leaf_wetness": 12
+        },
+        {
+            "sampleDate": "2013-05-19 00:00",
+            "avg_temp": 13.653750000000002,
+            "avg_humidity": 78.04166666666667,
+            "rain": 5.2,
+            "leaf_wetness": 11
+        },
+        {
+            "sampleDate": "2013-05-20 00:00",
+            "avg_temp": 13.595,
+            "avg_humidity": 75.66666666666667,
+            "rain": 0,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-05-21 00:00",
+            "avg_temp": 13.668750000000003,
+            "avg_humidity": 73.70833333333333,
+            "rain": 0,
+            "leaf_wetness": 6
+        },
+        {
+            "sampleDate": "2013-05-22 00:00",
+            "avg_temp": 14.895416666666664,
+            "avg_humidity": 68.875,
+            "rain": 0,
+            "leaf_wetness": 1
+        },
+        {
+            "sampleDate": "2013-05-23 00:00",
+            "avg_temp": 14.97875,
+            "avg_humidity": 64.33333333333333,
+            "rain": 0,
+            "leaf_wetness": 2
+        },
+        {
+            "sampleDate": "2013-05-24 00:00",
+            "avg_temp": 10.564583333333335,
+            "avg_humidity": 69,
+            "rain": 3.3,
+            "leaf_wetness": 3
+        },
+        {
+            "sampleDate": "2013-05-25 00:00",
+            "avg_temp": 8.035,
+            "avg_humidity": 81.91666666666667,
+            "rain": 7,
+            "leaf_wetness": 6
+        },
+        {
+            "sampleDate": "2013-05-26 00:00",
+            "avg_temp": 11.730833333333335,
+            "avg_humidity": 61.083333333333336,
+            "rain": 0,
+            "leaf_wetness": 4
+        },
+        {
+            "sampleDate": "2013-05-27 00:00",
+            "avg_temp": 13.461666666666666,
+            "avg_humidity": 71.29166666666667,
+            "rain": 0,
+            "leaf_wetness": 7
+        },
+        {
+            "sampleDate": "2013-05-28 00:00",
+            "avg_temp": 14.891666666666667,
+            "avg_humidity": 72.29166666666667,
+            "rain": 0,
+            "leaf_wetness": 2
+        },
+        {
+            "sampleDate": "2013-05-29 00:00",
+            "avg_temp": 13.839999999999998,
+            "avg_humidity": 73.25,
+            "rain": 0.6,
+            "leaf_wetness": 5
+        },
+        {
+            "sampleDate": "2013-05-30 00:00",
+            "avg_temp": 13.45041666666667,
+            "avg_humidity": 70.54166666666667,
+            "rain": 0,
+            "leaf_wetness": 8
+        },
+        {
+            "sampleDate": "2013-05-31 00:00",
+            "avg_temp": 13.785416666666668,
+            "avg_humidity": 64.04166666666667,
+            "rain": 0,
+            "leaf_wetness": 2
+        }
+    ]
+}

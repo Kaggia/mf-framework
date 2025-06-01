@@ -1,0 +1,16 @@
+{"data": [
+        {"sampledate": "2024-09-01 00:00:00+00:00", "temperature":14},
+        {"sampledate": "2024-09-01 01:00:00+00:00", "temperature":13},
+        {"sampledate": "2024-09-01 02:00:00+00:00", "temperature":12},
+        {"sampledate": "2024-09-01 03:00:00+00:00", "temperature":14},
+        {"sampledate": "2024-09-01 04:00:00+00:00", "temperature":14},
+        {"sampledate": "2024-09-01 05:00:00+00:00", "temperature":14},
+        {"sampledate": "2024-09-01 06:00:00+00:00", "temperature":15},
+        {"sampledate": "2024-09-01 07:00:00+00:00", "temperature":14},
+        {"sampledate": "2024-09-01 08:00:00+00:00", "temperature":14},        
+        {"sampledate": "2024-09-01 09:00:00+00:00", "temperature":15},        
+        {"sampledate": "2024-09-01 10:00:00+00:00", "temperature":16},
+        {"sampledate": "2024-09-01 11:00:00+00:00", "temperature":14},
+        {"sampledate": "2024-09-01 12:00:00+00:00", "temperature":14}
+    ]
+}

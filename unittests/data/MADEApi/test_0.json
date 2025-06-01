@@ -1,0 +1,4 @@
+{
+    "data": [],
+    "assertResult": ["data_points", "data_source_type_intl_id", "precipitation", "relativehumidity", "temperature", "temperature_max", "temperature_min", "time", "winddirection", "windspeed"]
+}

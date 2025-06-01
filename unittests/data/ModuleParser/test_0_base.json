@@ -1,0 +1,24 @@
+{
+    "assertResult": [
+        "SampleDate",
+        "Temperature",
+        "Humidity",
+        "MinimumTemperature",
+        "MaximumTemperature",
+        "AverageTemperature",
+        "CumulatedGrowingDegreeDays",
+        "CumulatedGrowingDegreeHourly",
+        "MinimumHumidity",
+        "MaximumHumidity",
+        "AverageHumidity",
+        "Rain",
+        "LeafWetness",
+        "GenericColumn",
+        "GrowingDegreeDays",
+        "GrowingDegreeHourly",
+        "DataSource",
+        "IsDaylight",
+        "WindDirection",
+        "WindSpeed"
+    ]
+}

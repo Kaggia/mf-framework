@@ -1,0 +1,11 @@
+{
+    "data": [
+        {"sampledate": "2024-09-16 00:00+00:00", "temperature":14},
+        {"sampledate": "2024-09-16 01:00+00:00", "temperature":14},
+        {"sampledate": "2024-09-16 02:00+00:00", "temperature":14},
+        {"sampledate": "2024-09-16 07:00+00:00", "temperature":14},
+        {"sampledate": "2024-09-16 08:00+00:00", "temperature":16},       
+        {"sampledate": "2024-09-16 09:00+00:00", "temperature":14},
+        {"sampledate": "2024-09-16 10:00+00:00", "temperature":12}
+    ]
+}

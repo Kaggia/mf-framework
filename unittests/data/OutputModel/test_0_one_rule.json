@@ -1,0 +1,9 @@
+{
+    "data":[
+        {"sampleDate": "2024-01-01T00:00:00+00:00", "avgTemp": 17.0, "avgHum": 71.0, "rain":1.0},
+        {"sampleDate": "2024-01-02T00:00:00+00:00", "avgTemp": 16.0, "avgHum": 65.0, "rain":1.0},
+        {"sampleDate": "2024-01-03T00:00:00+00:00", "avgTemp": 14.0, "avgHum": 71.0, "rain":1.0},
+        {"sampleDate": "2024-01-04T00:00:00+00:00", "avgTemp": 21.0, "avgHum": 72.0, "rain":2.0}
+    ],
+    "assertResult":[0, 0, 0, 1]
+}

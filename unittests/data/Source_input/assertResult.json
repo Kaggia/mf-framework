@@ -1,0 +1,10 @@
+{
+    "assertResult": {
+        "test_source_1": {
+            "sample_date": "SampleDate"
+        },
+        "test_source_2": {
+            "sample_date": "SampleDate"
+        }
+    }
+}

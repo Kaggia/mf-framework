@@ -1,0 +1,5 @@
+TEMPLATE_FOLDER        = "template/"
+MODEL_DATA_FOLDER      = "model_data/"
+RESULTS_FOLDER         = "results/"
+MODELS_FOLDER          = "models/"
+CONFIG_FOLDER          = "configurations/"

@@ -1,0 +1,4 @@
+{
+    "data": [],
+    "assertResult": ["data_source_type_intl_id", "isdaylight", "leafwetnessminutes", "precipitation", "relativehumidity", "temperature", "time", "winddirection", "windspeed"]
+}

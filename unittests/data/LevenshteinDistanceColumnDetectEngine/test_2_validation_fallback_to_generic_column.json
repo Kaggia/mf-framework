@@ -1,0 +1,14 @@
+{
+    "assertResult":{
+        "Giorno": "GenericColumn", 
+        "Mese"  : "GenericColumn", 
+        "Anno"  : "GenericColumn", 
+        "Concat": "GenericColumn",
+        "DOY"   : "GenericColumn",
+        "Tmax"  : "GenericColumn",
+        "Tmin"  : "GenericColumn",
+        "Rain (mm)"   : "GenericColumn",
+        "Start"   : "GenericColumn"}
+}
+
+

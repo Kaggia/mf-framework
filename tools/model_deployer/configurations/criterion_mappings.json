@@ -1,0 +1,11 @@
+{
+    "generic_source_model":{
+        "tags": ["sensor", "disease", "base"]
+    },
+    "generic_source_BR_model":{
+        "tags": ["sensor", "disease", "BR"]
+    },
+    "generic_source_IN_model":{
+        "tags": ["sensor", "disease", "IN"]
+    }
+}
